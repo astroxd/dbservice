@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+import json
 
 app = FastAPI()
 
@@ -8,6 +9,13 @@ def read_root():
     return {"Hello": "World"}
 
 
-@app.get("/items/{item_id}")
-def read_item(item_id: int, q: str | None = None):
-    return {"item_id": item_id, "q": q}
+@app.get("/products")
+def read_item():
+    with open('./src/data.json', 'r') as file:
+        data = json.load(file)
+
+        products = []
+        for product in data['products']:
+            products.append(product)
+
+    return {'products': products}
