@@ -1,19 +1,1176 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Nome",
-      "description": "description"
-    },
-    {
-      "id": 2,
-      "name": "Nome2",
-      "description": "description"
-    },
-    {
-      "id": 3,
-      "name": "Nome3",
-      "description": "description"
-    }
-  ]
+    "products": [
+        {
+            "id": 9656111038764,
+            "type": "TKL Keyboards",
+            "vendor": "Evoworks",
+            "rating": "4.7",
+            "rating_count": "136",
+            "title": "Evoworks Evo80 Aluminum TKL Hotswap Wireless Keyboard",
+            "price": "$169.99",
+            "options": {
+                "Color:": [
+                    {
+                        "Anodized Ink": "4238329807148"
+                    },
+                    {
+                        "Anodized Nimbus": "4238329839916"
+                    },
+                    {
+                        "Anodized Tyrian": "4238329872684"
+                    },
+                    {
+                        "Anodized Sand Gold": "4238329905452"
+                    },
+                    {
+                        "Anodized Scarlet": "4238329938220"
+                    },
+                    {
+                        "Spray-Coated Spark": "4238329970988"
+                    },
+                    {
+                        "Spray-coated Cream": "4241283088684"
+                    },
+                    {
+                        "Spray-Coated Butter Yellow": "4238330036524"
+                    },
+                    {
+                        "Spray-Coated Baby Pink": "4238330069292"
+                    },
+                    {
+                        "Spray-Coated Iceberg": "4238330102060"
+                    }
+                ],
+                "Switch:": [
+                    {
+                        "HMX Azure": "4297872769324"
+                    },
+                    {
+                        "Keygeek Neo Oat": "4510772887852"
+                    }
+                ],
+                "Plate Material:": [
+                    {
+                        "FR4": "4238330134828"
+                    },
+                    {
+                        "Polypropylene": "4238330167596"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "CNC aluminum case with ball catch design and magnetic connectors",
+                    "Butterfly leaf spring mechanism with specially designed gasket",
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "Programmable with VIA",
+                    "Hotswap PCB with per-key RGB and Polypropylene or FR4 plate",
+                    "1000Hz polling rate in wired and 2.4GHz mode",
+                    "2* 4000mAh batteries",
+                    "Five layers of poron foams with a double-layer of cotton bottom foam for enhanced acoustics",
+                    "Dye Sub PBT keycaps",
+                    "TKL form factor with F13 key"
+                ],
+                "div-0": "Qwertykeys and Neo Studio are renowned for their industry-leading craftsmanship, and Ticktype Evoworks shares the same commitment to excellence. The anodized cases of the Evo80 undergo a superior 220-mesh sandblasting process before anodization, and our spray-coated cases are colored with ultra-fine spray coating powders. Whichever color you choose, you'll enjoy the same smooth and vivid finish.<br/><br/><br/>Each assembled Evo80 keyboard includes:<br/>- CNC aluminum case <br/>- Hotswap PCB <br/>- daughterboard and magnetic connector<br/>- switch plate<br/>- Switches with spares<br/>- 1* set of keycaps in color to match the case<br/>- 1* acoustic package (PET sheet, IXPE sheet, plate foam, 2* Poron case foam)<br/>- stabilizers<br/>- 6* butterfly leaf springs<br/>- gaskets with spares<br/>- 4* silicone corner protectors<br/>- 4* rubber feet<br/>- 2* 4000mAh batteries<br/>- carrying case<br/>- USB-C cable<br/>- 2.4gHz dongle<br/>- Mac add-on kit<br/>- spare screws<br/>- spare leaf spring dampeners<br/>- spare case silicone dampeners<br/><br/>Please note that all photos are for reference only; item color, keycaps, and legends may differ."
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-8PE62-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1392",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-HN4JQ-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69674|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-R8CAM-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69679|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-AFY4C-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69681|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-TNSDL-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69680|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-EMAF5-Shortcut-Studio-Evo80-Polypropylene-Plate-Keyboard.png?v=1733949003&width=2000",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69753|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22909-U3SIV-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Nimbus.jpg?v=1733949003&width=1007",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22909|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22910-DCU4Q-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Tyrian.jpg?v=1733949003&width=1017",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22910|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22911-FBN2T-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Sand-Gold.jpg?v=1733949003&width=1093",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22911|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-J9RIR-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70898|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-W91W2-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2600",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70899|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-W2EGW-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70900|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-2RF99-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70901|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22912-ZUL2N-Shortcut-Studio-Evo80-Anodized-Scarlet-FR4-Plate.jpg?v=1733949003&width=995",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22912|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22913-6JFPA-Shortcut-Studio-Evo80-Spray-Coated-Spark-FR4-Plate.jpg?v=1733949003&width=977",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22913|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22913-NRCZH-Evoworks-Evo80-Keyboard-Spray-Coated-Spark-FR4.jpg?v=1733949003&width=2600",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |73242|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22915-ZPS6G-Shortcut-Studio-Evo80-Spray-Coated-Cream-Shortcut-Studio-Azu.jpg?v=1733949003&width=1007",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22915|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22917-B89NG-Shortcut-Studio-Evo80-Spray-Coated-Butter-Yellow-Shortcut-St.jpg?v=1733949003&width=997",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22917|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22918-LDKNR-Shortcut-Studio-Evo80-Spray-Coated-Baby-Pink-FR4-Plate.jpg?v=1733949003&width=1011",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22918|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22919-SAAVI-Shortcut-Studio-Evo80-Spray-Coated-Iceberg-FR4-Plate.jpg?v=1733949003&width=967",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22919|"
+                }
+            ]
+        },
+        {
+            "id": 9656111038764,
+            "type": "TKL Keyboards",
+            "vendor": "Evoworks",
+            "rating": "4.7",
+            "rating_count": "136",
+            "title": "Evoworks Evo80 Aluminum TKL Hotswap Wireless Keyboard",
+            "price": "$169.99",
+            "options": {
+                "Color:": [
+                    {
+                        "Anodized Ink": "4238329807148"
+                    },
+                    {
+                        "Anodized Nimbus": "4238329839916"
+                    },
+                    {
+                        "Anodized Tyrian": "4238329872684"
+                    },
+                    {
+                        "Anodized Sand Gold": "4238329905452"
+                    },
+                    {
+                        "Anodized Scarlet": "4238329938220"
+                    },
+                    {
+                        "Spray-Coated Spark": "4238329970988"
+                    },
+                    {
+                        "Spray-coated Cream": "4241283088684"
+                    },
+                    {
+                        "Spray-Coated Butter Yellow": "4238330036524"
+                    },
+                    {
+                        "Spray-Coated Baby Pink": "4238330069292"
+                    },
+                    {
+                        "Spray-Coated Iceberg": "4238330102060"
+                    }
+                ],
+                "Switch:": [
+                    {
+                        "HMX Azure": "4297872769324"
+                    },
+                    {
+                        "Keygeek Neo Oat": "4510772887852"
+                    }
+                ],
+                "Plate Material:": [
+                    {
+                        "FR4": "4238330134828"
+                    },
+                    {
+                        "Polypropylene": "4238330167596"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "CNC aluminum case with ball catch design and magnetic connectors",
+                    "Butterfly leaf spring mechanism with specially designed gasket",
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "Programmable with VIA",
+                    "Hotswap PCB with per-key RGB and Polypropylene or FR4 plate",
+                    "1000Hz polling rate in wired and 2.4GHz mode",
+                    "2* 4000mAh batteries",
+                    "Five layers of poron foams with a double-layer of cotton bottom foam for enhanced acoustics",
+                    "Dye Sub PBT keycaps",
+                    "TKL form factor with F13 key"
+                ],
+                "div-0": "Qwertykeys and Neo Studio are renowned for their industry-leading craftsmanship, and Ticktype Evoworks shares the same commitment to excellence. The anodized cases of the Evo80 undergo a superior 220-mesh sandblasting process before anodization, and our spray-coated cases are colored with ultra-fine spray coating powders. Whichever color you choose, you'll enjoy the same smooth and vivid finish.<br/><br/><br/>Each assembled Evo80 keyboard includes:<br/>- CNC aluminum case <br/>- Hotswap PCB <br/>- daughterboard and magnetic connector<br/>- switch plate<br/>- Switches with spares<br/>- 1* set of keycaps in color to match the case<br/>- 1* acoustic package (PET sheet, IXPE sheet, plate foam, 2* Poron case foam)<br/>- stabilizers<br/>- 6* butterfly leaf springs<br/>- gaskets with spares<br/>- 4* silicone corner protectors<br/>- 4* rubber feet<br/>- 2* 4000mAh batteries<br/>- carrying case<br/>- USB-C cable<br/>- 2.4gHz dongle<br/>- Mac add-on kit<br/>- spare screws<br/>- spare leaf spring dampeners<br/>- spare case silicone dampeners<br/><br/>Please note that all photos are for reference only; item color, keycaps, and legends may differ."
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-8PE62-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1392",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-HN4JQ-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69674|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-R8CAM-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69679|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-AFY4C-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69681|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-TNSDL-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69680|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-EMAF5-Shortcut-Studio-Evo80-Polypropylene-Plate-Keyboard.png?v=1733949003&width=2000",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69753|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22909-U3SIV-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Nimbus.jpg?v=1733949003&width=1007",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22909|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22910-DCU4Q-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Tyrian.jpg?v=1733949003&width=1017",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22910|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22911-FBN2T-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Sand-Gold.jpg?v=1733949003&width=1093",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22911|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-J9RIR-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70898|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-W91W2-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2600",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70899|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-W2EGW-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70900|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-2RF99-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70901|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22912-ZUL2N-Shortcut-Studio-Evo80-Anodized-Scarlet-FR4-Plate.jpg?v=1733949003&width=995",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22912|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22913-6JFPA-Shortcut-Studio-Evo80-Spray-Coated-Spark-FR4-Plate.jpg?v=1733949003&width=977",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22913|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22913-NRCZH-Evoworks-Evo80-Keyboard-Spray-Coated-Spark-FR4.jpg?v=1733949003&width=2600",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |73242|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22915-ZPS6G-Shortcut-Studio-Evo80-Spray-Coated-Cream-Shortcut-Studio-Azu.jpg?v=1733949003&width=1007",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22915|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22917-B89NG-Shortcut-Studio-Evo80-Spray-Coated-Butter-Yellow-Shortcut-St.jpg?v=1733949003&width=997",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22917|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22918-LDKNR-Shortcut-Studio-Evo80-Spray-Coated-Baby-Pink-FR4-Plate.jpg?v=1733949003&width=1011",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22918|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22919-SAAVI-Shortcut-Studio-Evo80-Spray-Coated-Iceberg-FR4-Plate.jpg?v=1733949003&width=967",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22919|"
+                }
+            ]
+        },
+        {
+            "id": 10056958312748,
+            "type": "75% Keyboards",
+            "vendor": "Evoworks",
+            "rating": "4.6",
+            "rating_count": "33",
+            "title": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard",
+            "price": "$169.90",
+            "options": {
+                "Color:": [
+                    {
+                        "Black": "5395966787884"
+                    },
+                    {
+                        "Dark Grey": "5395966820652"
+                    },
+                    {
+                        "Purple": "5395966984492"
+                    },
+                    {
+                        "Ice Blue": "5395966918956"
+                    },
+                    {
+                        "First Light": "5395966853420"
+                    },
+                    {
+                        "Sage": "5395967017260"
+                    },
+                    {
+                        "Sand Gold": "5395967050028"
+                    },
+                    {
+                        "Light Pink": "5395966951724"
+                    },
+                    {
+                        "Grey": "5395966886188"
+                    },
+                    {
+                        "White": "5395967082796"
+                    }
+                ],
+                "Plate Material:": [
+                    {
+                        "FR4": "5395967115564"
+                    },
+                    {
+                        "Polypropylene": "5395967148332"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "CNC 6063 aluminum case with a ball-catch quick release design for a fast and toolless disassembly",
+                    "Butterfly leaf spring mount with silicone gaskets and cushions",
+                    "Physical toggle next to USB port allows for easy switch between connection modes",
+                    "South facing RGB LED",
+                    "1.2mm flex cut Hotswap PCB with NKRO",
+                    "1000 Hz polling rate in wired and 2.4 GHz mode",
+                    "Programmable with QMK / VIA",
+                    "1.7mm thick Dye Sub PBT keycaps",
+                    "Compatible with Windows, Mac, and Linux",
+                    "8\u00b0 typing angle with PVD stainless steel external weight (weight color may vary among case colors)",
+                    "2* 4000mAh batteries"
+                ],
+                "div-0": "Qwertykeys and Neo Studio are renowned for their industry-leading craftsmanship, and Ticktype Evoworks shares the same commitment to excellence. The new EVO75 keyboard builds on the beloved sleek rounded profile of its predecessor, the EVO80, while elevating the design to new heights of sophistication.<br/><br/><br/>Polypropylene plate option comes with Rye switches. <br/>FR4 plate option comes with Amber switches.<br/><br/><br/>Anodized frame:<br/>- Basalt Grey (Dark Grey)<br/>- Tyrian (Purple)<br/>- Ice Blue<br/>- First Light<br/>- Light Sage (Sage)<br/>- Sand Gold<br/><br/><br/>Spray-coated frame:<br/>- Nebula (Black)<br/>- Baby Pink (Light Pink)<br/>- Eclipse Grey (Grey)<br/>- Nova White (White)<br/><br/><br/>Renders are for reference only. Actual product colors may vary.<br/><br/>Includes:<br/>- carrying case<br/>- keyboard pouch<br/>- accessory bag<br/>- user manual<br/>- 2.4GHz receiver<br/><br/>Free gifts (As per Qwertykey's policy, if any of these gifts are missing or damaged, they will not be re-shipped or replaced):<br/>- USB-C to USB-A cable<br/>- keycap / switch puller<br/>- 3* spare switches<br/>- dust cover<br/>- 2* leaf spring silocone<br/>- 2* gasket strips<br/>- 3* Mac keycaps"
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26095-4Y5EQ-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Black-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26095|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-E6VKY-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=2246",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-BXT61-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=1080",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76237|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-SL93H-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=875",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76238|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-N877J-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76239|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-33NUA-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76241|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-KM1W5-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76242|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-9NRMJ-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76244|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26084-SSGYH-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Basalt-Grey-Polypro.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26084|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26086-FPHMY-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Purple-Polypropylen.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26086|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26086-89VHQ-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Purple-Polypropylen.jpg?v=1774275267&width=2297",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76233|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26088-I8429-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Ice-Blue-Polypropyl.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26088|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26088-P7MEX-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Ice-Blue-Polypropyl.jpg?v=1774275267&width=2203",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76231|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26090-V6SMM-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-First-Light-Polypro.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26090|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26090-X1DK4-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-First-Light-Polypro.jpg?v=1774275267&width=2262",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76229|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26092-86HEN-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sage-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26092|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26092-LFTPX-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sage-Polypropylene.jpg?v=1774275267&width=2304",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76227|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26094-7HBV8-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sand-Gold-Polypropy.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26094|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26094-N24ID-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sand-Gold-Polypropy.jpg?v=1774275267&width=2381",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76225|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26095-FPG6V-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Black-Polypropylene.jpg?v=1774275267&width=2255",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76223|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26097-1THZT-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Light-Pink-Polyprop.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26097|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26097-WKXLN-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Light-Pink-Polyprop.jpg?v=1774275267&width=2233",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76221|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26099-FJRW3-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Grey-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26099|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26099-MMZZ1-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Grey-Polypropylene.jpg?v=1774275267&width=2275",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76219|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26101-QMBT7-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-White-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26101|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26101-DYBNM-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-White-Polypropylene.jpg?v=1774275267&width=2267",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76217|"
+                }
+            ]
+        },
+        {
+            "id": 10056958312748,
+            "type": "75% Keyboards",
+            "vendor": "Evoworks",
+            "rating": "4.6",
+            "rating_count": "33",
+            "title": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard",
+            "price": "$169.90",
+            "options": {
+                "Color:": [
+                    {
+                        "Black": "5395966787884"
+                    },
+                    {
+                        "Dark Grey": "5395966820652"
+                    },
+                    {
+                        "Purple": "5395966984492"
+                    },
+                    {
+                        "Ice Blue": "5395966918956"
+                    },
+                    {
+                        "First Light": "5395966853420"
+                    },
+                    {
+                        "Sage": "5395967017260"
+                    },
+                    {
+                        "Sand Gold": "5395967050028"
+                    },
+                    {
+                        "Light Pink": "5395966951724"
+                    },
+                    {
+                        "Grey": "5395966886188"
+                    },
+                    {
+                        "White": "5395967082796"
+                    }
+                ],
+                "Plate Material:": [
+                    {
+                        "FR4": "5395967115564"
+                    },
+                    {
+                        "Polypropylene": "5395967148332"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "CNC 6063 aluminum case with a ball-catch quick release design for a fast and toolless disassembly",
+                    "Butterfly leaf spring mount with silicone gaskets and cushions",
+                    "Physical toggle next to USB port allows for easy switch between connection modes",
+                    "South facing RGB LED",
+                    "1.2mm flex cut Hotswap PCB with NKRO",
+                    "1000 Hz polling rate in wired and 2.4 GHz mode",
+                    "Programmable with QMK / VIA",
+                    "1.7mm thick Dye Sub PBT keycaps",
+                    "Compatible with Windows, Mac, and Linux",
+                    "8\u00b0 typing angle with PVD stainless steel external weight (weight color may vary among case colors)",
+                    "2* 4000mAh batteries"
+                ],
+                "div-0": "Qwertykeys and Neo Studio are renowned for their industry-leading craftsmanship, and Ticktype Evoworks shares the same commitment to excellence. The new EVO75 keyboard builds on the beloved sleek rounded profile of its predecessor, the EVO80, while elevating the design to new heights of sophistication.<br/><br/><br/>Polypropylene plate option comes with Rye switches. <br/>FR4 plate option comes with Amber switches.<br/><br/><br/>Anodized frame:<br/>- Basalt Grey (Dark Grey)<br/>- Tyrian (Purple)<br/>- Ice Blue<br/>- First Light<br/>- Light Sage (Sage)<br/>- Sand Gold<br/><br/><br/>Spray-coated frame:<br/>- Nebula (Black)<br/>- Baby Pink (Light Pink)<br/>- Eclipse Grey (Grey)<br/>- Nova White (White)<br/><br/><br/>Renders are for reference only. Actual product colors may vary.<br/><br/>Includes:<br/>- carrying case<br/>- keyboard pouch<br/>- accessory bag<br/>- user manual<br/>- 2.4GHz receiver<br/><br/>Free gifts (As per Qwertykey's policy, if any of these gifts are missing or damaged, they will not be re-shipped or replaced):<br/>- USB-C to USB-A cable<br/>- keycap / switch puller<br/>- 3* spare switches<br/>- dust cover<br/>- 2* leaf spring silocone<br/>- 2* gasket strips<br/>- 3* Mac keycaps"
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26095-4Y5EQ-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Black-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26095|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-E6VKY-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=2246",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-BXT61-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=1080",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76237|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-SL93H-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=875",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76238|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-N877J-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76239|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-33NUA-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76241|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-KM1W5-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76242|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-9NRMJ-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76244|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26084-SSGYH-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Basalt-Grey-Polypro.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26084|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26086-FPHMY-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Purple-Polypropylen.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26086|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26086-89VHQ-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Purple-Polypropylen.jpg?v=1774275267&width=2297",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76233|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26088-I8429-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Ice-Blue-Polypropyl.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26088|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26088-P7MEX-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Ice-Blue-Polypropyl.jpg?v=1774275267&width=2203",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76231|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26090-V6SMM-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-First-Light-Polypro.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26090|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26090-X1DK4-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-First-Light-Polypro.jpg?v=1774275267&width=2262",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76229|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26092-86HEN-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sage-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26092|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26092-LFTPX-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sage-Polypropylene.jpg?v=1774275267&width=2304",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76227|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26094-7HBV8-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sand-Gold-Polypropy.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26094|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26094-N24ID-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sand-Gold-Polypropy.jpg?v=1774275267&width=2381",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76225|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26095-FPG6V-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Black-Polypropylene.jpg?v=1774275267&width=2255",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76223|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26097-1THZT-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Light-Pink-Polyprop.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26097|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26097-WKXLN-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Light-Pink-Polyprop.jpg?v=1774275267&width=2233",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76221|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26099-FJRW3-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Grey-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26099|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26099-MMZZ1-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Grey-Polypropylene.jpg?v=1774275267&width=2275",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76219|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26101-QMBT7-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-White-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26101|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26101-DYBNM-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-White-Polypropylene.jpg?v=1774275267&width=2267",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76217|"
+                }
+            ]
+        },
+        {
+            "id": 9032499364140,
+            "type": "Full-size Keyboards",
+            "vendor": "Ducky",
+            "rating": "4.6",
+            "rating_count": "39",
+            "title": "Ducky Origin Vintage Double Shot PBT Mechanical Keyboard",
+            "price": "$79.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Cherry MX Blue": "2848231784748"
+                    },
+                    {
+                        "Cherry MX Brown": "2848231751980"
+                    },
+                    {
+                        "Cherry MX Red": "2848231817516"
+                    },
+                    {
+                        "Cherry MX Black": "2848231850284"
+                    },
+                    {
+                        "Cherry MX Speed Silver": "2848231883052"
+                    },
+                    {
+                        "Cherry MX Silent Red": "2848231915820"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Kailh yellow hotswap sockets on stabilizer keys (ESC, Back Space, Enter, left Shift, right Shift, Space Bar, Numeric 0, +, and Enter)",
+                    "Detachable braided USB-C cable",
+                    "Bonus enter key in a random color",
+                    "OEM profile Double Shot PBT keycaps",
+                    "South-facing switches",
+                    "Exceptionally slim and narrow bezel design",
+                    null
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-SWCS4-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-NWMDE-Ducky-Origin-Vintage.jpg?v=1728311477&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70894|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-3NARV-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70895|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-K616E-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70896|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-H4LCT-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70897|"
+                }
+            ]
+        },
+        {
+            "id": 9032499364140,
+            "type": "Full-size Keyboards",
+            "vendor": "Ducky",
+            "rating": "4.6",
+            "rating_count": "39",
+            "title": "Ducky Origin Vintage Double Shot PBT Mechanical Keyboard",
+            "price": "$79.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Cherry MX Blue": "2848231784748"
+                    },
+                    {
+                        "Cherry MX Brown": "2848231751980"
+                    },
+                    {
+                        "Cherry MX Red": "2848231817516"
+                    },
+                    {
+                        "Cherry MX Black": "2848231850284"
+                    },
+                    {
+                        "Cherry MX Speed Silver": "2848231883052"
+                    },
+                    {
+                        "Cherry MX Silent Red": "2848231915820"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Kailh yellow hotswap sockets on stabilizer keys (ESC, Back Space, Enter, left Shift, right Shift, Space Bar, Numeric 0, +, and Enter)",
+                    "Detachable braided USB-C cable",
+                    "Bonus enter key in a random color",
+                    "OEM profile Double Shot PBT keycaps",
+                    "South-facing switches",
+                    "Exceptionally slim and narrow bezel design",
+                    null
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-SWCS4-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-NWMDE-Ducky-Origin-Vintage.jpg?v=1728311477&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70894|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-3NARV-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70895|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-K616E-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70896|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-H4LCT-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70897|"
+                }
+            ]
+        },
+        {
+            "id": 9840259170604,
+            "type": "Full-size Keyboards",
+            "vendor": "Ducky",
+            "rating": "4.3",
+            "rating_count": "16",
+            "title": "Ducky One X Full Size Inductive Keyboard",
+            "price": "$119.00",
+            "options": {
+                "Color:": [
+                    {
+                        "Black": "4715985895724"
+                    },
+                    {
+                        "White": "4715985928492"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "First keyboard built with Ducky Inductive Analog switches - Ducky Inductive switches deliver superior accuracy, consistency, and power efficiency compared to traditional analog switches",
+                    "Gasket mount design with Ducky plate mount stabilizers on stainless steel plate",
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "Connect up to 4 devices",
+                    "QUACK+ mechanics with 7-layer dampening foam including PET, EVA, IXPE, and silicone",
+                    "Programmable with web based software that is compatible across various operating systems",
+                    "Backlit, OEM profile, Double Shot 85% high-density PBT keycaps",
+                    "Adjustable actuation point from 0.2mm - 3.5mm",
+                    "2500mAh Polymer Li-ion battery",
+                    "NKRO in wired mode and 6KRO in wireless modes",
+                    null
+                ],
+                "div-0": "Introducing the Ducky One X, a groundbreaking tri-mode wireless mechanical keyboard equipped with next-gen analog switches! Every keystroke delivers an unparalleled experience with Ducky QUACK Mechanics+ incorporating seven dampening layers coupled with Double Shot, high-density 85% PBT keycaps. Plus, streamline your customization and optimize your performance with the intuitive web-based software. Get ready to elevate your typing experience to new heights with the Ducky One X!<br/><br/><br/>Ducky's Next-gen Inductive Switch redefines precision and consistency, delivering 0.1mm key motion accuracy from start to finish (from 0.1mm to 3.5mm). Unlike magnet-based Hall effect switches, which may suffer from inconsistencies or decaying magnet strength, this innovative design ensures consistent, reliable performance and exceptional power efficiency, making it the ideal choice for wireless usage scenarios. These switches pair a composite POM stem with nylon housing for smooth performance no matter what you use them for. <br/><br/><br/>Up your game with specialty gaming functions! The popular Rapid trigger function resets the key as soon as you start to release it, giving you the ability to trigger it again without moving up past the actuation point or releasing the key completely. With the Multi-point trigger function, assign four actions to a single key depending on depth of press and release. <br/><br/><br/>Black has black top and silver grey bottom<br/>White has white top and bottom<br/><br/><br/>**This keyboard uses specialty analog switches and is not compatible with mechanical or magnetic switches.**"
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-H4H3M-Ducky-One-X-Full-Size-Inductive-Keyboard.jpg?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-2F4P7-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73672|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-KAKUA-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=1946",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73714|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-9KCHB-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73682|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-3K3UJ-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=1920",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73683|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-768F1-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=2500",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73709|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-6TLPY-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=2500",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73712|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-R31A1-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=1932",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73715|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-3UAUB-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73484|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-Y37PC-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73485|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-HHUU8-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73486|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-ZNMY5-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73487|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-E2BHG-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73488|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-K87ZW-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73489|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-7B119-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |23052|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-A41W4-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73490|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-JVHHD-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73491|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-VM2L5-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73492|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-SX422-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73493|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-HPFU8-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73494|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-U1K8A-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73495|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/preview_images/d400f2ed9d3d4ade97c40f20f44a1d08.thumbnail.0000000000.jpg?v=1739393785&width=2000",
+                    "alt": ""
+                }
+            ]
+        },
+        {
+            "id": 9840259170604,
+            "type": "Full-size Keyboards",
+            "vendor": "Ducky",
+            "rating": "4.3",
+            "rating_count": "16",
+            "title": "Ducky One X Full Size Inductive Keyboard",
+            "price": "$119.00",
+            "options": {
+                "Color:": [
+                    {
+                        "Black": "4715985895724"
+                    },
+                    {
+                        "White": "4715985928492"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "First keyboard built with Ducky Inductive Analog switches - Ducky Inductive switches deliver superior accuracy, consistency, and power efficiency compared to traditional analog switches",
+                    "Gasket mount design with Ducky plate mount stabilizers on stainless steel plate",
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "Connect up to 4 devices",
+                    "QUACK+ mechanics with 7-layer dampening foam including PET, EVA, IXPE, and silicone",
+                    "Programmable with web based software that is compatible across various operating systems",
+                    "Backlit, OEM profile, Double Shot 85% high-density PBT keycaps",
+                    "Adjustable actuation point from 0.2mm - 3.5mm",
+                    "2500mAh Polymer Li-ion battery",
+                    "NKRO in wired mode and 6KRO in wireless modes",
+                    null
+                ],
+                "div-0": "Introducing the Ducky One X, a groundbreaking tri-mode wireless mechanical keyboard equipped with next-gen analog switches! Every keystroke delivers an unparalleled experience with Ducky QUACK Mechanics+ incorporating seven dampening layers coupled with Double Shot, high-density 85% PBT keycaps. Plus, streamline your customization and optimize your performance with the intuitive web-based software. Get ready to elevate your typing experience to new heights with the Ducky One X!<br/><br/><br/>Ducky's Next-gen Inductive Switch redefines precision and consistency, delivering 0.1mm key motion accuracy from start to finish (from 0.1mm to 3.5mm). Unlike magnet-based Hall effect switches, which may suffer from inconsistencies or decaying magnet strength, this innovative design ensures consistent, reliable performance and exceptional power efficiency, making it the ideal choice for wireless usage scenarios. These switches pair a composite POM stem with nylon housing for smooth performance no matter what you use them for. <br/><br/><br/>Up your game with specialty gaming functions! The popular Rapid trigger function resets the key as soon as you start to release it, giving you the ability to trigger it again without moving up past the actuation point or releasing the key completely. With the Multi-point trigger function, assign four actions to a single key depending on depth of press and release. <br/><br/><br/>Black has black top and silver grey bottom<br/>White has white top and bottom<br/><br/><br/>**This keyboard uses specialty analog switches and is not compatible with mechanical or magnetic switches.**"
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-H4H3M-Ducky-One-X-Full-Size-Inductive-Keyboard.jpg?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-2F4P7-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73672|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-KAKUA-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=1946",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73714|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-9KCHB-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73682|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-3K3UJ-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=1920",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73683|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-768F1-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=2500",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73709|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-6TLPY-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=2500",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73712|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-R31A1-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=1932",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73715|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-3UAUB-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73484|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-Y37PC-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73485|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-HHUU8-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73486|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-ZNMY5-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73487|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-E2BHG-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73488|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-K87ZW-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73489|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-7B119-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |23052|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-A41W4-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73490|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-JVHHD-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73491|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-VM2L5-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73492|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-SX422-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73493|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-HPFU8-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73494|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-U1K8A-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73495|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/preview_images/d400f2ed9d3d4ade97c40f20f44a1d08.thumbnail.0000000000.jpg?v=1739393785&width=2000",
+                    "alt": ""
+                }
+            ]
+        },
+        {
+            "id": 9473708556588,
+            "type": "TKL Keyboards",
+            "vendor": "Realforce",
+            "rating": "5.0",
+            "rating_count": "15",
+            "title": "Topre Realforce R3S TKL Keyboard",
+            "price": "$175.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Topre Silent 45g": "3844157276460"
+                    },
+                    {
+                        "Topre Silent 30g": "3844157309228"
+                    },
+                    {
+                        "Topre 45g": "3844157341996"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Space saving TKL form factor",
+                    "Non-detachable cable with USB-A computer connection",
+                    "Laser printed PBT keycaps",
+                    "Full N-key rollover",
+                    "Genuine Topre capacitive switches",
+                    "Change switch actuation point between 4 levels: 0.8mm, 1.5mm, 2.2mm, and 3.0mm",
+                    null
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-DY9ZA-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328988&width=1393",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-JMXLY-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=2000",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66996|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-JUHQI-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=2000",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66998|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-54SB7-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328988&width=1669",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66997|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-B1KYQ-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=1173",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66995|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-GBPKI-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67736|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-KICMR-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67739|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-QMXX5-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67740|"
+                }
+            ]
+        },
+        {
+            "id": 9473708556588,
+            "type": "TKL Keyboards",
+            "vendor": "Realforce",
+            "rating": "5.0",
+            "rating_count": "15",
+            "title": "Topre Realforce R3S TKL Keyboard",
+            "price": "$175.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Topre Silent 45g": "3844157276460"
+                    },
+                    {
+                        "Topre Silent 30g": "3844157309228"
+                    },
+                    {
+                        "Topre 45g": "3844157341996"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Space saving TKL form factor",
+                    "Non-detachable cable with USB-A computer connection",
+                    "Laser printed PBT keycaps",
+                    "Full N-key rollover",
+                    "Genuine Topre capacitive switches",
+                    "Change switch actuation point between 4 levels: 0.8mm, 1.5mm, 2.2mm, and 3.0mm",
+                    null
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-DY9ZA-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328988&width=1393",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-JMXLY-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=2000",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66996|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-JUHQI-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=2000",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66998|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-54SB7-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328988&width=1669",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66997|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-B1KYQ-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=1173",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66995|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-GBPKI-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67736|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-KICMR-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67739|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-QMXX5-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67740|"
+                }
+            ]
+        }
+    ]
 }
