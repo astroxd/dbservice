@@ -1,0 +1,1164 @@
+{
+    "products": [
+        {
+            "id": 9656111038764,
+            "type": "TKL Keyboards",
+            "vendor": "Evoworks",
+            "rating": "4.7",
+            "rating_count": "136",
+            "title": "Evoworks Evo80 Aluminum TKL Hotswap Wireless Keyboard",
+            "price": "$169.99",
+            "options": {
+                "Color:": [
+                    {
+                        "Anodized Ink": "4238329807148"
+                    },
+                    {
+                        "Anodized Nimbus": "4238329839916"
+                    },
+                    {
+                        "Anodized Tyrian": "4238329872684"
+                    },
+                    {
+                        "Anodized Sand Gold": "4238329905452"
+                    },
+                    {
+                        "Anodized Scarlet": "4238329938220"
+                    },
+                    {
+                        "Spray-Coated Spark": "4238329970988"
+                    },
+                    {
+                        "Spray-coated Cream": "4241283088684"
+                    },
+                    {
+                        "Spray-Coated Butter Yellow": "4238330036524"
+                    },
+                    {
+                        "Spray-Coated Baby Pink": "4238330069292"
+                    },
+                    {
+                        "Spray-Coated Iceberg": "4238330102060"
+                    }
+                ],
+                "Switch:": [
+                    {
+                        "HMX Azure": "4297872769324"
+                    },
+                    {
+                        "Keygeek Neo Oat": "4510772887852"
+                    }
+                ],
+                "Plate Material:": [
+                    {
+                        "FR4": "4238330134828"
+                    },
+                    {
+                        "Polypropylene": "4238330167596"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "CNC aluminum case with ball catch design and magnetic connectors",
+                    "Butterfly leaf spring mechanism with specially designed gasket",
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "Programmable with VIA",
+                    "Hotswap PCB with per-key RGB and Polypropylene or FR4 plate",
+                    "1000Hz polling rate in wired and 2.4GHz mode",
+                    "2* 4000mAh batteries",
+                    "Five layers of poron foams with a double-layer of cotton bottom foam for enhanced acoustics",
+                    "Dye Sub PBT keycaps",
+                    "TKL form factor with F13 key"
+                ],
+                "div-0": "Qwertykeys and Neo Studio are renowned for their industry-leading craftsmanship, and Ticktype Evoworks shares the same commitment to excellence. The anodized cases of the Evo80 undergo a superior 220-mesh sandblasting process before anodization, and our spray-coated cases are colored with ultra-fine spray coating powders. Whichever color you choose, you'll enjoy the same smooth and vivid finish.<br/><br/><br/>Each assembled Evo80 keyboard includes:<br/>- CNC aluminum case <br/>- Hotswap PCB <br/>- daughterboard and magnetic connector<br/>- switch plate<br/>- Switches with spares<br/>- 1* set of keycaps in color to match the case<br/>- 1* acoustic package (PET sheet, IXPE sheet, plate foam, 2* Poron case foam)<br/>- stabilizers<br/>- 6* butterfly leaf springs<br/>- gaskets with spares<br/>- 4* silicone corner protectors<br/>- 4* rubber feet<br/>- 2* 4000mAh batteries<br/>- carrying case<br/>- USB-C cable<br/>- 2.4gHz dongle<br/>- Mac add-on kit<br/>- spare screws<br/>- spare leaf spring dampeners<br/>- spare case silicone dampeners<br/><br/>Please note that all photos are for reference only; item color, keycaps, and legends may differ."
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-8PE62-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1392",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-HN4JQ-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69674|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-R8CAM-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69679|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-AFY4C-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69681|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-TNSDL-Shortcut-Studio-Evo80-PP-Plate.jpg?v=1733949003&width=1400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69680|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22904-EMAF5-Shortcut-Studio-Evo80-Polypropylene-Plate-Keyboard.png?v=1733949003&width=2000",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |69753|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22909-U3SIV-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Nimbus.jpg?v=1733949003&width=1007",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22909|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22910-DCU4Q-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Tyrian.jpg?v=1733949003&width=1017",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22910|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22911-FBN2T-Shortcut-Studio-Evo80-FR4-Plate-Anodized-Sand-Gold.jpg?v=1733949003&width=1093",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22911|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-J9RIR-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2599",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70898|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-W91W2-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2600",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70899|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-W2EGW-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70900|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22923-2RF99-Evoworks-Evo80-Keyboard-Anodized-Sand-Gold-PP.jpg?v=1733949003&width=2400",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |70901|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22912-ZUL2N-Shortcut-Studio-Evo80-Anodized-Scarlet-FR4-Plate.jpg?v=1733949003&width=995",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22912|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22913-6JFPA-Shortcut-Studio-Evo80-Spray-Coated-Spark-FR4-Plate.jpg?v=1733949003&width=977",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22913|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22913-NRCZH-Evoworks-Evo80-Keyboard-Spray-Coated-Spark-FR4.jpg?v=1733949003&width=2600",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |73242|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22915-ZPS6G-Shortcut-Studio-Evo80-Spray-Coated-Cream-Shortcut-Studio-Azu.jpg?v=1733949003&width=1007",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22915|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22917-B89NG-Shortcut-Studio-Evo80-Spray-Coated-Butter-Yellow-Shortcut-St.jpg?v=1733949003&width=997",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22917|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22918-LDKNR-Shortcut-Studio-Evo80-Spray-Coated-Baby-Pink-FR4-Plate.jpg?v=1733949003&width=1011",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22918|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/22919-SAAVI-Shortcut-Studio-Evo80-Spray-Coated-Iceberg-FR4-Plate.jpg?v=1733949003&width=967",
+                    "alt": "Evoworks Evo80 Keyboard MKLGABKASO |22919|"
+                }
+            ]
+        },
+        {
+            "id": 10056958312748,
+            "type": "75% Keyboards",
+            "vendor": "Evoworks",
+            "rating": "4.6",
+            "rating_count": "33",
+            "title": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard",
+            "price": "$169.90",
+            "options": {
+                "Color:": [
+                    {
+                        "Black": "5395966787884"
+                    },
+                    {
+                        "Dark Grey": "5395966820652"
+                    },
+                    {
+                        "Purple": "5395966984492"
+                    },
+                    {
+                        "Ice Blue": "5395966918956"
+                    },
+                    {
+                        "First Light": "5395966853420"
+                    },
+                    {
+                        "Sage": "5395967017260"
+                    },
+                    {
+                        "Sand Gold": "5395967050028"
+                    },
+                    {
+                        "Light Pink": "5395966951724"
+                    },
+                    {
+                        "Grey": "5395966886188"
+                    },
+                    {
+                        "White": "5395967082796"
+                    }
+                ],
+                "Plate Material:": [
+                    {
+                        "FR4": "5395967115564"
+                    },
+                    {
+                        "Polypropylene": "5395967148332"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "CNC 6063 aluminum case with a ball-catch quick release design for a fast and toolless disassembly",
+                    "Butterfly leaf spring mount with silicone gaskets and cushions",
+                    "Physical toggle next to USB port allows for easy switch between connection modes",
+                    "South facing RGB LED",
+                    "1.2mm flex cut Hotswap PCB with NKRO",
+                    "1000 Hz polling rate in wired and 2.4 GHz mode",
+                    "Programmable with QMK / VIA",
+                    "1.7mm thick Dye Sub PBT keycaps",
+                    "Compatible with Windows, Mac, and Linux",
+                    "8\u00b0 typing angle with PVD stainless steel external weight (weight color may vary among case colors)",
+                    "2* 4000mAh batteries"
+                ],
+                "div-0": "Qwertykeys and Neo Studio are renowned for their industry-leading craftsmanship, and Ticktype Evoworks shares the same commitment to excellence. The new EVO75 keyboard builds on the beloved sleek rounded profile of its predecessor, the EVO80, while elevating the design to new heights of sophistication.<br/><br/><br/>Polypropylene plate option comes with Rye switches. <br/>FR4 plate option comes with Amber switches.<br/><br/><br/>Anodized frame:<br/>- Basalt Grey (Dark Grey)<br/>- Tyrian (Purple)<br/>- Ice Blue<br/>- First Light<br/>- Light Sage (Sage)<br/>- Sand Gold<br/><br/><br/>Spray-coated frame:<br/>- Nebula (Black)<br/>- Baby Pink (Light Pink)<br/>- Eclipse Grey (Grey)<br/>- Nova White (White)<br/><br/><br/>Renders are for reference only. Actual product colors may vary.<br/><br/>Includes:<br/>- carrying case<br/>- keyboard pouch<br/>- accessory bag<br/>- user manual<br/>- 2.4GHz receiver<br/><br/>Free gifts (As per Qwertykey's policy, if any of these gifts are missing or damaged, they will not be re-shipped or replaced):<br/>- USB-C to USB-A cable<br/>- keycap / switch puller<br/>- 3* spare switches<br/>- dust cover<br/>- 2* leaf spring silocone<br/>- 2* gasket strips<br/>- 3* Mac keycaps"
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26095-4Y5EQ-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Black-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26095|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-E6VKY-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=2246",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-BXT61-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=1080",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76237|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-SL93H-Evoworks-Evo75-Aluminum-Hotswap-Keyboard.jpg?v=1774275267&width=875",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76238|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-N877J-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76239|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-33NUA-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76241|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-KM1W5-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76242|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26083-9NRMJ-Evoworks-Evo75-Aluminum-Hotswap-Wireless-Keyboard.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76244|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26084-SSGYH-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Basalt-Grey-Polypro.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26084|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26086-FPHMY-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Purple-Polypropylen.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26086|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26086-89VHQ-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Purple-Polypropylen.jpg?v=1774275267&width=2297",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76233|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26088-I8429-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Ice-Blue-Polypropyl.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26088|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26088-P7MEX-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Ice-Blue-Polypropyl.jpg?v=1774275267&width=2203",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76231|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26090-V6SMM-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-First-Light-Polypro.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26090|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26090-X1DK4-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-First-Light-Polypro.jpg?v=1774275267&width=2262",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76229|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26092-86HEN-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sage-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26092|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26092-LFTPX-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sage-Polypropylene.jpg?v=1774275267&width=2304",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76227|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26094-7HBV8-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sand-Gold-Polypropy.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26094|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26094-N24ID-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Sand-Gold-Polypropy.jpg?v=1774275267&width=2381",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76225|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26095-FPG6V-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Black-Polypropylene.jpg?v=1774275267&width=2255",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76223|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26097-1THZT-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Light-Pink-Polyprop.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26097|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26097-WKXLN-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Light-Pink-Polyprop.jpg?v=1774275267&width=2233",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76221|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26099-FJRW3-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Grey-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26099|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26099-MMZZ1-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-Grey-Polypropylene.jpg?v=1774275267&width=2275",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76219|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26101-QMBT7-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-White-Polypropylene.jpg?v=1774275267&width=2400",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |26101|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/26101-DYBNM-Evoworks-Evo75-Aluminum-Hotswap-Keyboard-White-Polypropylene.jpg?v=1774275267&width=2267",
+                    "alt": "Evoworks Evo75 Aluminum Hotswap Wireless Keyboard MKTTJ5JET9 |76217|"
+                }
+            ]
+        },
+        {
+            "id": 9032499364140,
+            "type": "Full-size Keyboards",
+            "vendor": "Ducky",
+            "rating": "4.6",
+            "rating_count": "39",
+            "title": "Ducky Origin Vintage Double Shot PBT Mechanical Keyboard",
+            "price": "$79.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Cherry MX Blue": "2848231784748"
+                    },
+                    {
+                        "Cherry MX Brown": "2848231751980"
+                    },
+                    {
+                        "Cherry MX Red": "2848231817516"
+                    },
+                    {
+                        "Cherry MX Black": "2848231850284"
+                    },
+                    {
+                        "Cherry MX Speed Silver": "2848231883052"
+                    },
+                    {
+                        "Cherry MX Silent Red": "2848231915820"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Kailh yellow hotswap sockets on stabilizer keys (ESC, Back Space, Enter, left Shift, right Shift, Space Bar, Numeric 0, +, and Enter)",
+                    "Detachable braided USB-C cable",
+                    "Bonus enter key in a random color",
+                    "OEM profile Double Shot PBT keycaps",
+                    "South-facing switches",
+                    "Exceptionally slim and narrow bezel design",
+                    null
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-SWCS4-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-NWMDE-Ducky-Origin-Vintage.jpg?v=1728311477&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70894|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-3NARV-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70895|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-K616E-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70896|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17173-H4LCT-Ducky-Origin-Vintage.jpg?v=1728311476&width=2400",
+                    "alt": "Ducky Origin Vintage MKTO6E1FY3 |70897|"
+                }
+            ]
+        },
+        {
+            "id": 9840259170604,
+            "type": "Full-size Keyboards",
+            "vendor": "Ducky",
+            "rating": "4.3",
+            "rating_count": "16",
+            "title": "Ducky One X Full Size Inductive Keyboard",
+            "price": "$119.00",
+            "options": {
+                "Color:": [
+                    {
+                        "Black": "4715985895724"
+                    },
+                    {
+                        "White": "4715985928492"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "First keyboard built with Ducky Inductive Analog switches - Ducky Inductive switches deliver superior accuracy, consistency, and power efficiency compared to traditional analog switches",
+                    "Gasket mount design with Ducky plate mount stabilizers on stainless steel plate",
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "Connect up to 4 devices",
+                    "QUACK+ mechanics with 7-layer dampening foam including PET, EVA, IXPE, and silicone",
+                    "Programmable with web based software that is compatible across various operating systems",
+                    "Backlit, OEM profile, Double Shot 85% high-density PBT keycaps",
+                    "Adjustable actuation point from 0.2mm - 3.5mm",
+                    "2500mAh Polymer Li-ion battery",
+                    "NKRO in wired mode and 6KRO in wireless modes",
+                    null
+                ],
+                "div-0": "Introducing the Ducky One X, a groundbreaking tri-mode wireless mechanical keyboard equipped with next-gen analog switches! Every keystroke delivers an unparalleled experience with Ducky QUACK Mechanics+ incorporating seven dampening layers coupled with Double Shot, high-density 85% PBT keycaps. Plus, streamline your customization and optimize your performance with the intuitive web-based software. Get ready to elevate your typing experience to new heights with the Ducky One X!<br/><br/><br/>Ducky's Next-gen Inductive Switch redefines precision and consistency, delivering 0.1mm key motion accuracy from start to finish (from 0.1mm to 3.5mm). Unlike magnet-based Hall effect switches, which may suffer from inconsistencies or decaying magnet strength, this innovative design ensures consistent, reliable performance and exceptional power efficiency, making it the ideal choice for wireless usage scenarios. These switches pair a composite POM stem with nylon housing for smooth performance no matter what you use them for. <br/><br/><br/>Up your game with specialty gaming functions! The popular Rapid trigger function resets the key as soon as you start to release it, giving you the ability to trigger it again without moving up past the actuation point or releasing the key completely. With the Multi-point trigger function, assign four actions to a single key depending on depth of press and release. <br/><br/><br/>Black has black top and silver grey bottom<br/>White has white top and bottom<br/><br/><br/>**This keyboard uses specialty analog switches and is not compatible with mechanical or magnetic switches.**"
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-H4H3M-Ducky-One-X-Full-Size-Inductive-Keyboard.jpg?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-2F4P7-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73672|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-KAKUA-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=1946",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73714|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-9KCHB-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73682|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-3K3UJ-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.png?v=1774904472&width=1920",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73683|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-768F1-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=2500",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73709|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-6TLPY-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=2500",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73712|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23112-R31A1-Ducky-One-X-Analog-Inductive-Wireless-Keyboard.jpg?v=1774904472&width=1932",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73715|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-3UAUB-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73484|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-Y37PC-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73485|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-HHUU8-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73486|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-ZNMY5-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73487|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-E2BHG-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73488|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23051-K87ZW-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-Black.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73489|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-7B119-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |23052|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-A41W4-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73490|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-JVHHD-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73491|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-VM2L5-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73492|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-SX422-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73493|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-HPFU8-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73494|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23052-U1K8A-Ducky-One-X-Analog-Inductive-Wireless-Keyboard-White.png?v=1774904472&width=2400",
+                    "alt": "Ducky One X Full Size Inductive Keyboard MK2XMUNUNH |73495|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/preview_images/d400f2ed9d3d4ade97c40f20f44a1d08.thumbnail.0000000000.jpg?v=1739393785&width=2000",
+                    "alt": ""
+                }
+            ]
+        },
+        {
+            "id": 9473708556588,
+            "type": "TKL Keyboards",
+            "vendor": "Realforce",
+            "rating": "5.0",
+            "rating_count": "15",
+            "title": "Topre Realforce R3S TKL Keyboard",
+            "price": "$175.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Topre Silent 45g": "3844157276460"
+                    },
+                    {
+                        "Topre Silent 30g": "3844157309228"
+                    },
+                    {
+                        "Topre 45g": "3844157341996"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Space saving TKL form factor",
+                    "Non-detachable cable with USB-A computer connection",
+                    "Laser printed PBT keycaps",
+                    "Full N-key rollover",
+                    "Genuine Topre capacitive switches",
+                    "Change switch actuation point between 4 levels: 0.8mm, 1.5mm, 2.2mm, and 3.0mm",
+                    null
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-DY9ZA-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328988&width=1393",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-JMXLY-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=2000",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66996|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-JUHQI-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=2000",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66998|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-54SB7-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328988&width=1669",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66997|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-B1KYQ-Topre-Realforce-R3S-TKL-Wired.jpg?v=1719328987&width=1173",
+                    "alt": "Topre Realforce R3S TKL Wired MKCSRHR80T |66995|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-GBPKI-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67736|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-KICMR-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67739|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21544-QMXX5-Topre-Realforce-R3S-TKL-Wired.jpg?v=1721234826&width=1500",
+                    "alt": "Topre Realforce R3S TKL MKCSRHR80T |67740|"
+                }
+            ]
+        },
+        {
+            "id": 10343082557740,
+            "type": "Compact Keyboards / 60%+",
+            "vendor": "Lofree",
+            "rating": "4.4",
+            "rating_count": "11",
+            "title": "Lofree Hyzen67 Keyboard",
+            "price": "$299.00",
+            "options": {
+                "Color:": [
+                    {
+                        "Silver": "7973201969452"
+                    },
+                    {
+                        "Space Grey": "7973202002220"
+                    }
+                ],
+                "Edition:": [
+                    {
+                        "Tri-mode": "7973774557484"
+                    },
+                    {
+                        "Wired": "7973823775020"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "CNC aluminum case with gasket mount design and FR4 plate",
+                    "2 editions available: wired or tri-mode",
+                    "Tri-mode edition connects 3 ways- wired with USB-C cable or wirelessly with Bluetooth 6.0 and 2.4 GHz",
+                    "Keyboard shortcut toggles between Mechanical Mode and Magnetic Mode",
+                    "Hotswap PCB that supports most mechanical and magnetic switches on the market",
+                    "TMR sensors for pinpoint accuracy and ultra-low latency",
+                    "3 physical knobs: large volume dial, connection mode toggle, and F-row toggle (wired edition does not have connection mode toggle)",
+                    "LED light bar on the front edge",
+                    "8K polling rate in 2.4GHz. mode (for tri-mode edition) and wired mode with 0.125ms latency",
+                    "Lofree x Kailh Nexus Mechanical Magnetic swich",
+                    "Toggle top row between numbers and F-row",
+                    "Frosted translucent PC keycaps",
+                    "Acoustic foam package includes IXPE bottom pad, bottom foam, and PET voice pad",
+                    "Programmable with Lofree Hub",
+                    "10,000 mAh rechargeable battery (tri-mode only)",
+                    "South-facing RGB backlighting",
+                    null
+                ],
+                "div-0": "Lofree once again partnered with Kailh to rethink the switch from its physical structure. The result is something entirely new. The Nexus Mechanical Magnetic Switch is the first switch to truly combine the advantages of both magnetic and mechanical systems. It retains the precision and speed of magnetic actuation, while introducing the feedback and sound of a mechanical structure. In gaming, 0.01mm Rapid Trigger and dual 8K polling deliver faster, more precise input. In everyday use, the mechanical structure and gasket system provide stability, consistency, and a refined feel. At the same time, Hyzen supports hot-swappable compatibility with both magnetic and mechanical switches, allowing you to tailor your typing experience to different needs.<br/><br/><br/>The Lofree Hyzen67 keyboard uses Lofree x Kailh Nexus Mechancial Magnetic switches. These switches use magnets and sensors instead of physical contacts to process actuations, creating a much smoother keypress without bounce or chatter. The adjustable actuation point is determined not by location but by distance travelled. <br/><br/>Hyzen is built on TMR (Tunnel MagnetoResistance) sensing technology \u2014 a next-generation magnetic sensing solution. Unlike traditional Hall Effect sensors that detect magnetic field strength, TMR measures resistance changes, allowing it to capture far more subtle variations in key travel. TMR also offers improved temperature stability, stronger resistance to interference and lower power consumption.<br/><br/><br/>Adjustable Actuation<br/>Adjust actuation point between 0.01mm to 3.5mm to strike the perfect balance between speed and control.<br/><br/>Rapid Trigger<br/>Keys can reset and re-trigger instantly, without returning to the top position. This removes the physical limitation of traditional switches, bringing faster repeated inputs, more responsive movement and tighter control in high-speed scenarios.<br/><br/>Dynamic Keystroke (DKS)<br/>One key. Multiple actions. In FPS games, a single press can smoothly trigger - aim, shoot, reset - allowing complex sequences (up to 4 actions) to happen in one motion.<br/><br/>Mod Tap<br/>Tap for one action. Hold for another. In action or RPG games, you can combine - quick skills (tap), charged abilities (hold) - without moving your fingers.<br/><br/>Toggle<br/>Turn continuous actions on or off. Perfect for auto-run in open-world games or repeated actions in farming or grinding. Free your fingers without losing control.<br/><br/>Rapid Successive Priority<br/>When multiple keys are pressed, the deeper press takes priority. In competitive scenarios, this ensures intentional actions override accidental ones \u2014 critical for movement and control accuracy.<br/><br/>SOCD Directional Input Control<br/>Manage conflicting inputs like left/right or up/down. Essential in fighting games (clean directional inputs) and PS movement (precise strafing and counter-strafing) to ensure your inputs stay clean and predictable.<br/><br/>Hyper Tap<br/>Trigger multiple inputs with one key. In fast-paced games, this enables - jump + crouch combos, advanced movement shortcuts, complex macros without delay.<br/><br/><br/>Tri-mode edition includes:<br/>- 2.4 GHz. receiver<br/>- USB-C cable<br/>- keycap puller<br/>- user manual<br/><br/>Wired edition includes: <br/>Includes:<br/>- USB-C cable<br/>- user manual",
+                "div-1": "<div class=\"grid-item\"> <img alt=\"Product detail 1\" src=\"https://cdn.shopify.com/s/files/1/0835/9706/6540/files/Specification_resizADD.jpg?v=1781200731\"/> </div><div class=\"grid-item\"> <img alt=\"Product detail 2\" src=\"https://cdn.shopify.com/s/files/1/0835/9706/6540/files/0593742f655698bc2bb5cb5439ba0acc.jpg?v=1781200751\"/> </div><div class=\"grid-item\"> <img alt=\"Product detail 3\" src=\"https://cdn.shopify.com/s/files/1/0835/9706/6540/files/5d914ecd89a0930d7c6115a2ee8fe6d7.jpg?v=1781200738\"/> </div><div class=\"grid-item\"> <img alt=\"Product detail 4\" src=\"https://cdn.shopify.com/s/files/1/0835/9706/6540/files/Nexus_exploded.jpg?v=1781200781\"/> </div>",
+                "div-2": "<img alt=\"Product detail 1\" src=\"https://cdn.shopify.com/s/files/1/0835/9706/6540/files/Specification_resizADD.jpg?v=1781200731\"/>",
+                "div-3": "<img alt=\"Product detail 2\" src=\"https://cdn.shopify.com/s/files/1/0835/9706/6540/files/0593742f655698bc2bb5cb5439ba0acc.jpg?v=1781200751\"/>",
+                "div-4": "<img alt=\"Product detail 3\" src=\"https://cdn.shopify.com/s/files/1/0835/9706/6540/files/5d914ecd89a0930d7c6115a2ee8fe6d7.jpg?v=1781200738\"/>",
+                "div-5": "<img alt=\"Product detail 4\" src=\"https://cdn.shopify.com/s/files/1/0835/9706/6540/files/Nexus_exploded.jpg?v=1781200781\"/>"
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-T6B36-Lofree-Hyzen67-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-Z37AM-Lofree-Hyzen67-Tri-mode-Keyboard.jpg?v=1784305364&width=1600",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79587|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-T9WWI-Lofree-Hyzen67-Tri-mode-Keyboard.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79588|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-3L95H-Lofree-Hyzen67-Tri-mode-Keyboard.png?v=1784305364&width=1800",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79590|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-WVKXH-Lofree-Hyzen67-Tri-mode-Keyboard.jpg?v=1784305364&width=1600",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79592|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-FVDSP-Lofree-Hyzen67-Tri-mode-Keyboard.jpg?v=1784305363&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79594|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-XDBQS-Lofree-Hyzen67-Tri-mode-Keyboard.jpg?v=1784305364&width=1600",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79595|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-95ICA-Lofree-Hyzen67-Tri-mode-Keyboard.jpg?v=1784305363&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79596|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-RG3EX-Lofree-Hyzen67-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79869|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-23W8I-Lofree-Hyzen67-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79870|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27552-U2CV3-Lofree-Hyzen67-Keyboard.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79871|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-8IAJX-Lofree-Hyzen67-Tri-mode-Keyboard-Space-Grey.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |27553|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-LKB3C-Lofree-Hyzen67-Tri-mode-Keyboard-Space-Grey.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79607|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-DTWQW-Lofree-Hyzen67-Tri-mode-Keyboard-Space-Grey.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79608|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-DAKKZ-Lofree-Hyzen67-Tri-mode-Keyboard-Space-Grey.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79609|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-8C3R7-Lofree-Hyzen67-Tri-mode-Keyboard-Space-Grey.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79610|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-JXVIR-Lofree-Hyzen67-Tri-mode-Keyboard-Space-Grey.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79611|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-SEMW4-Lofree-Hyzen67-Tri-mode-Keyboard-Space-Grey.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79612|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-PBS35-Lofree-Hyzen67-Space-Grey-Tri-mode-Keyboard.jpg?v=1784305366&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79878|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27553-CKUUU-Lofree-Hyzen67-Space-Grey-Tri-mode-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79879|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27556-LIJQ1-Lofree-Hyzen67-Wired-Keyboard-Space-Grey.jpg?v=1784305363&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |27556|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27556-A41W3-Lofree-Hyzen67-Space-Grey-Wired-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79872|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27556-6PSSY-Lofree-Hyzen67-Space-Grey-Wired-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79873|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27556-VGL4C-Lofree-Hyzen67-Space-Grey-Wired-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79874|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27556-IRL3R-Lofree-Hyzen67-Space-Grey-Wired-Keyboard.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79875|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-7NH2U-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79598|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-HSXD3-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305363&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79599|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-E6LPK-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79600|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-Z9HL3-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79601|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-KZSTQ-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79602|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-7R2XV-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79603|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-NH3XY-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79604|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-2Q7VG-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79605|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27554-LHRUB-Lofree-Hyzen67-Tri-mode-Keyboard-Silver.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79606|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-QCREH-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79880|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-346U6-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305363&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79881|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-JXNJM-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305364&width=1601",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79882|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-MRCZ8-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79883|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-9913L-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79884|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-SYWDR-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79885|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-VD7BD-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305364&width=2400",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79886|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-ZQRYS-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305364&width=1854",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79887|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/27557-6P64R-Lofree-Hyzen67-Silver-Wired-Keyboard.jpg?v=1784305364&width=1351",
+                    "alt": "Lofree Hyzen67 * Keyboard MKVQ5AZZAA |79888|"
+                }
+            ]
+        },
+        {
+            "id": 9473679786284,
+            "type": "Full-size Keyboards",
+            "vendor": "Realforce",
+            "rating": "4.7",
+            "rating_count": "24",
+            "title": "Topre Realforce R3S Keyboard",
+            "price": "$180.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Topre Silent 45g": "3844091412780"
+                    },
+                    {
+                        "Topre Silent 30g": "3844091445548"
+                    },
+                    {
+                        "Topre 45g": "3844091478316"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Full-size (104 + 4) layout",
+                    "Non-detachable cable with USB-A computer connection",
+                    "Laser printed PBT keycaps",
+                    "Full N-key rollover",
+                    "Genuine Topre capacitive switches",
+                    "Change switch actuation point between 4 levels: 0.8mm, 1.5mm, 2.2mm, and 3.0mm",
+                    null
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21540-8TEPK-Topre-Realforce-R3S-Wired.jpg?v=1719326914&width=1780",
+                    "alt": "Topre Realforce R3S Wired MK9VELDCZI |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21540-D19YD-Topre-Realforce-R3S-Wired.jpg?v=1719326913&width=2000",
+                    "alt": "Topre Realforce R3S Wired MK9VELDCZI |67002|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21540-7PQSM-Topre-Realforce-R3S-Wired.jpg?v=1719326914&width=2000",
+                    "alt": "Topre Realforce R3S Wired MK9VELDCZI |67001|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21540-PRFMF-Topre-Realforce-R3S-Wired.jpg?v=1719326914&width=2000",
+                    "alt": "Topre Realforce R3S Wired MK9VELDCZI |67000|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21540-Q6EJG-Topre-Realforce-R3S-Wired.jpg?v=1719326914&width=1162",
+                    "alt": "Topre Realforce R3S Wired MK9VELDCZI |66999|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21540-LCZPN-Topre-Realforce-R3S-Wired.jpg?v=1721234817&width=1500",
+                    "alt": "Topre Realforce R3S MK9VELDCZI |67737|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21540-DNLJZ-Topre-Realforce-R3S-Wired.jpg?v=1721234817&width=1500",
+                    "alt": "Topre Realforce R3S MK9VELDCZI |67738|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/21540-6TIEI-Topre-Realforce-R3S-Wired.jpg?v=1721234817&width=1500",
+                    "alt": "Topre Realforce R3S MK9VELDCZI |67741|"
+                }
+            ]
+        },
+        {
+            "id": 9032499659052,
+            "type": "Full-size Keyboards",
+            "vendor": "Ducky",
+            "rating": "4.6",
+            "rating_count": "24",
+            "title": "Ducky Origin Black Double Shot PBT Mechanical Keyboard",
+            "price": "$74.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Cherry MX Brown": "2848233423148"
+                    },
+                    {
+                        "Cherry MX Blue": "2848233455916"
+                    },
+                    {
+                        "Cherry MX Red": "2848233488684"
+                    },
+                    {
+                        "Cherry MX Black": "2848233521452"
+                    },
+                    {
+                        "Cherry MX Speed Silver": "2848233554220"
+                    },
+                    {
+                        "Cherry MX Silent Red": "2848233586988"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Kailh yellow hotswap sockets on stabilizer keys (ESC, Back Space, Enter, left Shift, right Shift, Space Bar, Numeric 0, +, and Enter)",
+                    "Detachable braided USB-C cable",
+                    "Bonus enter key in a random color",
+                    "OEM profile Double Shot PBT keycaps",
+                    "South-facing switches",
+                    "Exceptionally slim and narrow bezel design",
+                    null
+                ],
+                "div-0": "The Ducky Origin is a no-frills workhouse, designed for use in all situations. This full size keyboard provides all the functionality and quality with none of the fuss."
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-KTENS-Origin-Black.jpg?v=1708368015&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-KEGIX-Origin-Black.jpg?v=1708368015&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |59284|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-7XT2I-Origin-Black.jpg?v=1708368020&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |59285|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-ZUU3F-Origin-Black.png?v=1708368019&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60228|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-Y6ZPB-Origin-Black.jpg?v=1708368016&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60229|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-98CCU-Origin-Black.jpg?v=1708368017&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60230|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-WRPKS-Origin-Black.jpg?v=1708368014&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60231|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-24WFN-Origin-Black.jpg?v=1708368013&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60232|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-13RVU-Origin-Black.jpg?v=1708368019&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60233|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-D99FF-Origin-Black.jpg?v=1708368016&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60234|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-Z8T8R-Origin-Black.jpg?v=1708368013&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60235|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-YG5RZ-Origin-Black.jpg?v=1708368022&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60236|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-EITEX-Origin-Black.jpg?v=1708368018&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60237|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/17174-ZXMPD-Origin-Black.jpg?v=1708368013&width=2400",
+                    "alt": "Ducky Origin Black MKH0FEMJ98 |60238|"
+                }
+            ]
+        },
+        {
+            "id": 9845926494508,
+            "type": "75% Keyboards",
+            "vendor": "Realforce",
+            "rating": "4.8",
+            "rating_count": "15",
+            "title": "Topre Realforce RC1 75% Bluetooth Keyboard",
+            "price": "$235.00",
+            "options": {
+                "Color:": [
+                    {
+                        "Black": "4731957346604"
+                    },
+                    {
+                        "White": "4731957379372"
+                    }
+                ],
+                "Switch:": [
+                    {
+                        "Topre Silent 30g": "4731957412140"
+                    },
+                    {
+                        "Topre Silent 45g": "4731957444908"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "75% form factor, the smallest and lightest Realforce design ever",
+                    "Connect 2 ways- wired with USB-C cable or wirelessly with Bluetooth",
+                    "Connect to up to four devices",
+                    "Genuine Topre capacitive switches with APC (actuation point changer), allows for adjusting switch actuation point between 4 levels: 0.8mm, 1.5mm, 2.2mm, and 3.0mm",
+                    "Programmable eco modes to save battery life",
+                    "REALFORCE CONNECT software adjusts key maps, APC, ECO mode setting, and more",
+                    "Detachable 70 inch USB-A to USB-C cable",
+                    "Dye Sub PBT keycaps",
+                    "Full N-key rollover",
+                    "Long lasting rechargeable battery"
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23058-E38KK-Topre-Realforce-RC1-75-Bluetooth-Keyboard-Topre-Silent-30g.jpg?v=1740167949&width=2400",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |23058|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23055-MTNXH-Topre-Realforce-RC1-75.jpg?v=1740167949&width=2400",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23058-Z6TVL-Topre-Realforce-RC1-75-Bluetooth-Keyboard-Topre-Silent-30g.jpg?v=1740167949&width=2400",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73817|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23058-7MACT-Topre-Realforce-RC1-75-Bluetooth-Keyboard-Topre-Silent-30g.jpg?v=1740167949&width=2400",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73824|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23058-7BCNK-Topre-Realforce-RC1-75-Bluetooth-Keyboard-Topre-Silent-30g.jpg?v=1740167949&width=2400",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73825|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23058-27XRH-Topre-Realforce-RC1-75-Bluetooth-Keyboard-Topre-Silent-30g.jpg?v=1740167949&width=2400",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73826|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23058-HVN1M-Topre-Realforce-RC1-75-Bluetooth-Keyboard-Topre-Silent-30g.jpg?v=1740167949&width=2400",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73827|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/23057-I6RMW-Topre-Realforce-RC1-75-Bluetooth-Keyboard-Topre-Silent-45g.jpg?v=1740167949&width=2400",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73820|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/24413-RL2DK-Topre-Realforce-RC1-White-75-30g-Bluetooth-Keyboard.jpg?v=1740167948&width=1218",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |24413|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/24413-X58PV-Topre-Realforce-RC1-White-75-30g-Bluetooth-Keyboard.jpg?v=1740167949&width=1348",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73805|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/24413-LF5D4-Topre-Realforce-RC1-White-75-30g-Bluetooth-Keyboard.jpg?v=1740167949&width=1431",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73806|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/24413-ARSGT-Topre-Realforce-RC1-White-75-30g-Bluetooth-Keyboard.jpg?v=1740167948&width=1366",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73807|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/24413-YZQLH-Topre-Realforce-RC1-White-75-30g-Bluetooth-Keyboard.jpg?v=1740167949&width=1084",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73808|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/24413-CKCUH-Topre-Realforce-RC1-White-75-30g-Bluetooth-Keyboard.png?v=1740167949&width=1304",
+                    "alt": "Topre Realforce RC1 75% Bluetooth Keyboard MK1W1BN62V |73809|"
+                }
+            ]
+        },
+        {
+            "id": 9350719177004,
+            "type": "Full-size Keyboards",
+            "vendor": "Ducky",
+            "rating": "4.4",
+            "rating_count": "7",
+            "title": "Ducky Zero 6108 Classic Hotswap Wireless RGB Mechanical Keyboard",
+            "price": "$65.00",
+            "options": {
+                "Switch:": [
+                    {
+                        "Cherry MX2A Brown": "3604354433324"
+                    },
+                    {
+                        "Cherry MX2A Red": "3604354498860"
+                    },
+                    {
+                        "Cherry MX2A Speed Silver": "3604354531628"
+                    },
+                    {
+                        "Cherry MX2A Blue": "3604354466092"
+                    }
+                ]
+            },
+            "description": {
+                "list-0": [
+                    "Connect 3 ways- wired with USB-C cable or wirelessly with Bluetooth and 2.4 GHz",
+                    "Q-Bounce synthetic pad",
+                    "2500mAh rechargeable battery",
+                    "3-level adjustable feet",
+                    "Backlit Double Shot PBT keycaps",
+                    "Hotswap RGB PCB that supports both 3-pin and 5-pin switches",
+                    "PU bottom foam for enhanced acoustics",
+                    "Cherry MX2A switches"
+                ]
+            },
+            "images": [
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-HJA75-Ducky-Zero-6108-Classic.jpg?v=1715781655&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |0|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-NL7DG-Ducky-Zero-6108-Classic.jpg?v=1715781654&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62204|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-V7MTW-Ducky-Zero-6108-Classic.jpg?v=1715781656&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62205|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-7I1XM-Ducky-Zero-6108-Classic.jpg?v=1715781656&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62206|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-CG4E4-Ducky-Zero-6108-Classic.jpg?v=1715781658&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62209|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-AYKYS-Ducky-Zero-6108-Classic.jpg?v=1715781655&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62210|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-P64ZY-Ducky-Zero-6108-Classic.jpg?v=1715781654&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62211|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-32W8Y-Ducky-Zero-6108-Classic.jpg?v=1715781653&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62212|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-U24PH-Ducky-Zero-6108-Classic.jpg?v=1715781654&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62213|"
+                },
+                {
+                    "src": "https://mechanicalkeyboards.com/cdn/shop/files/18639-7ZDFM-Ducky-Zero-6108-Classic.jpg?v=1715781657&width=2000",
+                    "alt": "Ducky Zero 6108 Classic MKH4LOBBQM |62214|"
+                }
+            ]
+        }
+    ]
+}
